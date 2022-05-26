@@ -1,2 +1,2 @@
 # continuous-delivery-go-sdk
-Go client library for IBM Cloud Continuous Delivery
+Go client library for IBM Cloud Continuous Delivery - _under construction_

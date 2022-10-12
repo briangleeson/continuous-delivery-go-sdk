@@ -2,9 +2,7 @@
 
 ## Questions
 
-If you are having problems using the APIs or have a question about IBM Cloud services,
-please ask a question at
-[Stack Overflow](http://stackoverflow.com/questions/ask?tags=ibm-cloud).
+If you are having problems using the APIs or have a question about IBM Cloud services, please ask a question at [Stack Overflow](http://stackoverflow.com/questions/ask?tags=ibm-cloud).
 
 ## Issues
 
